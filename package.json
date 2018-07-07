@@ -1,0 +1,26 @@
+{
+  "name": "starsgame",
+  "version": "1.0.0",
+  "description": "reactdemo",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "prop-types": "^15.6.2"
+  },
+  "devDependencies": {
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^3.11.0",
+    "webpack-dev-server": "^3.1.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "BunsReactStarsGame"
+  },
+  "author": "sateesh",
+  "license": "ISC"
+}
